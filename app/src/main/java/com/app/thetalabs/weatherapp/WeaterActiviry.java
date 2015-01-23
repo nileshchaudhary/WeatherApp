@@ -11,7 +11,7 @@ public class WeaterActiviry extends ActionBarActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_weater_activiry);
+        setContentView(R.layout.activity_weather);
     }
 
 
